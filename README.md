@@ -1,9 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
-
-<div class="image-large">
-  <img src="https://media.giphy.com/media/d7EWlj76ZlMiY/giphy.gif" />
-<div>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sengokukun&count_private=true&show_icons=true" />
 </a>
